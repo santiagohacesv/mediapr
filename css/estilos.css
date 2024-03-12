@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; }
+
+.title{
+    font-size: 3rem;
+    background: none;
+    color: crimson;
+    border-bottom: none;
+    margin: 40px;
+    text-align: center; }
+
+    @media screen and (min-width: 700px){
+        body{
+            background-color: chocolate; } }
